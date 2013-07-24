@@ -1,3 +1,5 @@
+##### Description
+
 I have various holes in my house brickwork and have noticed small to tiny bees using them.
 
 Tanya Weaver http://www.girlmeetsbee.blogspot.co.uk/ mentioned these are solitary bees, and make homes in all sorts of places, this was my attempt to give them a nice place to live.
