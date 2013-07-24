@@ -16,7 +16,7 @@ githubiverse:
     github:
         base: https://github.com/
         user: richrap
-        repository: Model_Bee_Test
+        repository: Bee_House_Design
         branch: master
 
     ## The names of directories where any images, source and stl files associated with the project can be found.
